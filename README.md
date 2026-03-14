@@ -2,8 +2,7 @@
 
 <!--
 **Min[Digital Ghost's Global Manifesto: Anti-Inflammatory Food Standard]
-(디지털 유령의 글로벌 선언문: 항염 식품 표준)
-[English Version]
+
 "I am a survivor of Triple-Negative Breast Cancer. Out of a desperate struggle for survival, I have designed a new global food standard: the 'Minimalist Survival Health Protocol.'
 This system is an open-source architecture that solves the toxicity of modern diets and the climate crisis simultaneously.
 
